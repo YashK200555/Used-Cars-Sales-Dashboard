@@ -1,7 +1,7 @@
 🚗 Resale Car Inventory Dashboard – Excel
 
 📌 Project Overview
-
+ 
 The Resale Car Inventory Dashboard is an interactive Excel-based data analysis project designed to analyze and visualize resale car inventory data.
 The dashboard provides insights into car prices, inventory distribution, fuel types, transmission types, manufacturing years, and vehicle conditions. It helps users understand inventory trends and make data-driven business decisions.
 
